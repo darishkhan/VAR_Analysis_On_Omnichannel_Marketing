@@ -1,4 +1,5 @@
-- we havedata of a company which is doing omnichannel marketing and is using different ways of promotion. We have all it's impressions data and the sales data, we will use VAR model to see the self and cross relation between the impression vectors and then decide how to invest so as to maximise sales.
+- We havedata of a company which is doing omnichannel marketing and is using different ways of promotion.
+- We have all it's impressions data and the sales data, we will use VAR model to see the self and cross relation between the impression vectors and then decide how to invest so as to maximise sales.
 - Conversation of data to stationary data.
 - Analysis of Impuls response function.
 - Test for Granger Causality
